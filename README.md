@@ -1,8 +1,10 @@
 ## Fastgist - faster gists.
 
+Fastgist is a chrome extension to speed up sharing code snippets via Github Gists. The extension guesses the programming language of the copied code and saves you some clicks.
+
 * Copy some code to the clipboard
-* Press <kbd>CTRL</kbd>+<kbd>Shift</kbd>+<kbd>1</kbd>
-* <kbd>CTRL</kbd>+<kbd>v</kbd> to paste the Github gist URL
+* Press <kbd>CTRL</kbd>+<kbd>Shift</kbd>+<kbd>1</kbd> in Chrome.
+* <kbd>CTRL</kbd>+<kbd>v</kbd> to paste the Github gist URL.
 * That's it.
 
 ### Build instructions:
