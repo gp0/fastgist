@@ -59,6 +59,7 @@ function copyTextToClipboard(text) {
               data: JSON.stringify(gist)
           }).done(function(response) {
               copyTextToClipboard(response['html_url']);
+
               var myAudio = new Audio();
               myAudio.src = "blip.wav";
               myAudio.play();
